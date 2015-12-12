@@ -1,0 +1,17 @@
+{
+  "name": "eiffel-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Eiffel theme for Atom",
+  "keywords": [
+    "eiffel",
+    "theme",
+    "light",
+    "syntax"
+  ],
+  "repository": "https://github.com/isbkch/eiffel-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
